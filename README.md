@@ -4,13 +4,13 @@
 To implement and analyze amplitude modulation (AM) using Python's NumPy and Matplotlib libraries. 
 
 # Apparatus Required: 
-Software: Python with NumPy and Matplotlib libraries 
-Hardware: Personal Computer 
+* Software: Python with NumPy and Matplotlib libraries 
+* Hardware: Personal Computer 
 
 # Theory: 
 Amplitude Modulation (AM) is a technique used in electronic communication, primarily for transmitting 
 information via a radio carrier wave. In AM, the amplitude of the carrier wave is varied in proportion to that of 
-the message signal. The general form of an AM signal is: 
+the message signal. 
 
 # Algorithm:
 1. Initialize Parameters: Set the values for carrier frequency, message frequency, and sampling frequency. 
